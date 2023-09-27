@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/apex-json-parser/static/css/main.073c9b0a.css",
-    "main.js": "/apex-json-parser/static/js/main.23a3f82a.js",
+    "main.js": "/apex-json-parser/static/js/main.cc90dbb9.js",
     "static/js/787.fad7858a.chunk.js": "/apex-json-parser/static/js/787.fad7858a.chunk.js",
     "static/media/logo.svg": "/apex-json-parser/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/apex-json-parser/index.html",
     "main.073c9b0a.css.map": "/apex-json-parser/static/css/main.073c9b0a.css.map",
-    "main.23a3f82a.js.map": "/apex-json-parser/static/js/main.23a3f82a.js.map",
+    "main.cc90dbb9.js.map": "/apex-json-parser/static/js/main.cc90dbb9.js.map",
     "787.fad7858a.chunk.js.map": "/apex-json-parser/static/js/787.fad7858a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.23a3f82a.js"
+    "static/js/main.cc90dbb9.js"
   ]
 }
